@@ -1,7 +1,7 @@
-# Bank Database Management System (BDMS)
+# Bank Database Management System
 
 ## Introduction
-The Bank Database Management System (BDMS) is a comprehensive solution for managing bank account information. It facilitates basic CRUD (Create, Read, Update, Delete) operations along with transaction tracking. This system is designed to handle the essential operations involved in managing bank accounts.
+The Bank Database Management System is a comprehensive solution for managing bank account information. It facilitates basic CRUD (Create, Read, Update, Delete) operations along with transaction tracking. This system is designed to handle the essential operations involved in managing bank accounts.
 
 ## Features
 - **Create:** Add new bank accounts with relevant details.
@@ -11,7 +11,7 @@ The Bank Database Management System (BDMS) is a comprehensive solution for manag
 - **Transactions:** Record and track financial transactions associated with each bank account.
 
 ## Database Schema
-The BDMS contains the following attributes for each bank account:
+The Bank Database Management System contains the following attributes for each bank account:
 
 - **Account Name:** Full name associated with the bank account.
 - **Account Number:** Unique identification number assigned to each bank account.
