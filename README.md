@@ -8,6 +8,7 @@ The Bank Database Management System is a comprehensive solution for managing ban
 - **Read:** Retrieve and view existing bank account information.
 - **Update:** Modify and update bank account details as needed.
 - **Delete:** Remove bank accounts from the database.
+- **Transaction:** Perform transactions between accounts, transferring funds from one account to another.
 
 ## Database Schema
 The Bank Database Management System contains the following attributes for each bank account:
