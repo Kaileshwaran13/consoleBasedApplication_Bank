@@ -58,5 +58,5 @@ Perform transactions between accounts, transferring funds from one account to an
 
 ```cpp
 // Example
-Transaction(from,to,amount);
+Transaction(from, to, amount);
 ```
