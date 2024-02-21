@@ -52,3 +52,11 @@ Remove a bank account using the `delete` operation. Provide the account number t
 // Example
 delete_account(account_number);
 ```
+
+### 5. Transactions
+Perform transactions between accounts, transferring funds from one account to another.
+
+```cpp
+// Example
+Transaction(from,to,amount);
+```
