@@ -8,7 +8,6 @@ The Bank Database Management System is a comprehensive solution for managing ban
 - **Read:** Retrieve and view existing bank account information.
 - **Update:** Modify and update bank account details as needed.
 - **Delete:** Remove bank accounts from the database.
-- **Transactions:** Record and track financial transactions associated with each bank account.
 
 ## Database Schema
 The Bank Database Management System contains the following attributes for each bank account:
@@ -51,12 +50,4 @@ Remove a bank account using the `delete` operation. Provide the account number t
 ```cpp
 // Example
 delete_account(account_number);
-```
-
-### 5. Transactions
-Record financial transactions associated with a bank account using the `transactions` operation.
-
-```cpp
-// Example
-record_transaction(account_number, transaction_type, amount);
 ```
